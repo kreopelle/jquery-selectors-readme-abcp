@@ -17,6 +17,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-  if (id == 'pic-list') {
-  return $('ul li:first-child');}
+  return $('ul li:first-child')
 }
